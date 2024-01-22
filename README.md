@@ -1,6 +1,6 @@
 # Median and Edge Filtering
 
-## Digital Image Process
+## Digital Image Process - week6
 
 
 ### 기능
